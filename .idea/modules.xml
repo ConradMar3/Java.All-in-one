@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Blocks/Blocks.iml" filepath="$PROJECT_DIR$/Blocks/Blocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CaseApp/CaseApp.iml" filepath="$PROJECT_DIR$/CaseApp/CaseApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloApp/HelloApp.iml" filepath="$PROJECT_DIR$/HelloApp/HelloApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.All-in-one.iml" filepath="$PROJECT_DIR$/.idea/Java.All-in-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Statements/Statements.iml" filepath="$PROJECT_DIR$/Statements/Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhiteSpace/WhiteSpace.iml" filepath="$PROJECT_DIR$/WhiteSpace/WhiteSpace.iml" />
+    </modules>
+  </component>
+</project>
