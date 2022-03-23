@@ -2,16 +2,24 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Blocks/Blocks.iml" filepath="$PROJECT_DIR$/Blocks/Blocks.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CaseApp/CaseApp.iml" filepath="$PROJECT_DIR$/CaseApp/CaseApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CreatingCommenmts/CreatingCommenmts.iml" filepath="$PROJECT_DIR$/CreatingCommenmts/CreatingCommenmts.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HelloApp/HelloApp.iml" filepath="$PROJECT_DIR$/HelloApp/HelloApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HelloApp2/HelloApp2.iml" filepath="$PROJECT_DIR$/HelloApp2/HelloApp2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Identifiers/Identifiers.iml" filepath="$PROJECT_DIR$/Identifiers/Identifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter1/Blocks/Blocks.iml" filepath="$PROJECT_DIR$/Chapter1/Blocks/Blocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter1/CaseApp/CaseApp.iml" filepath="$PROJECT_DIR$/Chapter1/CaseApp/CaseApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter1/CreatingCommenmts/CreatingCommenmts.iml" filepath="$PROJECT_DIR$/Chapter1/CreatingCommenmts/CreatingCommenmts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter2/DeclaringClassVariables/DeclaringClassVariables.iml" filepath="$PROJECT_DIR$/Chapter2/DeclaringClassVariables/DeclaringClassVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter2/DeclaringInstanceVariables/DeclaringInstanceVariables.iml" filepath="$PROJECT_DIR$/Chapter2/DeclaringInstanceVariables/DeclaringInstanceVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter2/DeclaringLocalVariables/DeclaringLocalVariables.iml" filepath="$PROJECT_DIR$/Chapter2/DeclaringLocalVariables/DeclaringLocalVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter2/DeclaringVariables/DeclaringTwoOrMoreVariables.iml" filepath="$PROJECT_DIR$/Chapter2/DeclaringVariables/DeclaringTwoOrMoreVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter2/DeclaringTwoVariables/DeclaringTwoVariables.iml" filepath="$PROJECT_DIR$/Chapter2/DeclaringTwoVariables/DeclaringTwoVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter2/DeclaringVariables/DeclaringVariables.iml" filepath="$PROJECT_DIR$/Chapter2/DeclaringVariables/DeclaringVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter1/HelloApp/HelloApp.iml" filepath="$PROJECT_DIR$/Chapter1/HelloApp/HelloApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter1/HelloApp2/HelloApp2.iml" filepath="$PROJECT_DIR$/Chapter1/HelloApp2/HelloApp2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter1/Identifiers/Identifiers.iml" filepath="$PROJECT_DIR$/Chapter1/Identifiers/Identifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter2/InitializingVariables/InitializingVariables.iml" filepath="$PROJECT_DIR$/Chapter2/InitializingVariables/InitializingVariables.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.All-in-one.iml" filepath="$PROJECT_DIR$/.idea/Java.All-in-one.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ObjectOrientatedProgramming/ObjectOrientatedProgramming.iml" filepath="$PROJECT_DIR$/ObjectOrientatedProgramming/ObjectOrientatedProgramming.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Statements/Statements.iml" filepath="$PROJECT_DIR$/Statements/Statements.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WhiteSpace/WhiteSpace.iml" filepath="$PROJECT_DIR$/WhiteSpace/WhiteSpace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter1/JavaAPIClasses/JavaAPIClasses.iml" filepath="$PROJECT_DIR$/Chapter1/JavaAPIClasses/JavaAPIClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter1/ObjectOrientatedProgramming/ObjectOrientatedProgramming.iml" filepath="$PROJECT_DIR$/Chapter1/ObjectOrientatedProgramming/ObjectOrientatedProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter1/Statements/Statements.iml" filepath="$PROJECT_DIR$/Chapter1/Statements/Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter1/WhiteSpace/WhiteSpace.iml" filepath="$PROJECT_DIR$/Chapter1/WhiteSpace/WhiteSpace.iml" />
     </modules>
   </component>
 </project>
