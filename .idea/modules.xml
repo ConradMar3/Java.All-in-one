@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.All-in-one.iml" filepath="$PROJECT_DIR$/.idea/Java.All-in-one.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter1/JavaAPIClasses/JavaAPIClasses.iml" filepath="$PROJECT_DIR$/Chapter1/JavaAPIClasses/JavaAPIClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter1/ObjectOrientatedProgramming/ObjectOrientatedProgramming.iml" filepath="$PROJECT_DIR$/Chapter1/ObjectOrientatedProgramming/ObjectOrientatedProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter2/PrimitiveDataTypes.iml" filepath="$PROJECT_DIR$/Chapter2/PrimitiveDataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter1/Statements/Statements.iml" filepath="$PROJECT_DIR$/Chapter1/Statements/Statements.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter1/WhiteSpace/WhiteSpace.iml" filepath="$PROJECT_DIR$/Chapter1/WhiteSpace/WhiteSpace.iml" />
     </modules>

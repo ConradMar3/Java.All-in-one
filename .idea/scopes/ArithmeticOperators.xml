@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="ArithmeticOperators" pattern="file[Java.All-in-one]:Chapter3 - WorkingWithNumberAndExpressions/ArithmeticOperators||src[Java.All-in-one]:ArithmeticOperators" />
+</component>
