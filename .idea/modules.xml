@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Chapter1/Blocks/Blocks.iml" filepath="$PROJECT_DIR$/Chapter1/Blocks/Blocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Book2 [Chapter3] - NumbersAndExpressions/Book2 [Chapter3] - NumbersAndExpressions.iml" filepath="$PROJECT_DIR$/Book2 [Chapter3] - NumbersAndExpressions/Book2 [Chapter3] - NumbersAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Book2[Chapter4]/Book2[Chapter4].iml" filepath="$PROJECT_DIR$/Book2[Chapter4]/Book2[Chapter4].iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter1/CaseApp/CaseApp.iml" filepath="$PROJECT_DIR$/Chapter1/CaseApp/CaseApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter1/CreatingCommenmts/CreatingCommenmts.iml" filepath="$PROJECT_DIR$/Chapter1/CreatingCommenmts/CreatingCommenmts.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter2/DeclaringClassVariables/DeclaringClassVariables.iml" filepath="$PROJECT_DIR$/Chapter2/DeclaringClassVariables/DeclaringClassVariables.iml" />
