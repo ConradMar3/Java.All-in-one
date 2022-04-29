@@ -1,7 +1,8 @@
 public class NestedIfStatement {
     public static void main(String[] args) {
         double commissionRate;
-        double salesClass = 1;
+        // int salesClass = 1;
+        int salesClass = 2;
         double salesTotal = 10001.0;
 
         if (salesClass == 1)
